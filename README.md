@@ -1,7 +1,7 @@
 # ガイド (gaido)
-Anki Vocabulary set for guidetojapanesegrammar.com
+Anki Vocabulary set for http://www.guidetojapanese.com
 
-This is my vocabulary list to work with guidetojapanesegrammar.com.
+This is my vocabulary list to work with http://www.guidetojapanese.com.
 It uses Google-TTS (using the Wavenet-AI) as well for pronounciation.
 
 Vocab is introduced by order of appearence in the vocabulary lists for each lesson.
