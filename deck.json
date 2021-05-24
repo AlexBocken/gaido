@@ -55,7 +55,7 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 10,
+    "extendNew": 30,
     "extendRev": 0,
     "media_files": [
         "_ipag.ttf",
@@ -602,7 +602,6 @@
         "googletts-7a104f80-531e725b-ea7303ea-5cad207f-a54bbfbd.mp3",
         "googletts-7a2d96bc-b106e27f-60d77b07-d508db0a-f90fc6e5.mp3",
         "googletts-7a2d9e3e-5eee70df-555b3a9c-860e303c-6928c6b3.mp3",
-        "googletts-7aa62e4e-94f813da-1d88b274-1fa86e0d-4494319e.mp3",
         "googletts-7addcd70-acc7e785-35fc083c-c73b0675-d99691a2.mp3",
         "googletts-7b1f4f4c-7053fb5d-8ddac32a-de6e5f1a-296ce9a7.mp3",
         "googletts-7b20e857-ba034162-831d8612-7ab9754d-5e966755.mp3",
@@ -656,6 +655,7 @@
         "googletts-863f6189-3c1804aa-0ffab97d-f839d74d-f97a8fd8.mp3",
         "googletts-864db169-c306a5eb-d7276ae4-f892944e-6d125340.mp3",
         "googletts-865d2cbc-0ede2614-4689c0fc-bd01adbb-8b71b519.mp3",
+        "googletts-869c253c-2718e19d-a1c3f532-c6e532fd-766a526b.mp3",
         "googletts-87327ced-c90a7c31-0fc0bc4e-9ac90d73-9a1457dc.mp3",
         "googletts-87500a0d-d7d4be9b-db271858-b44239cf-541a3fd2.mp3",
         "googletts-876dd19b-3e3dcce6-5e2e131b-b7754837-db2f470e.mp3",
@@ -784,6 +784,7 @@
         "googletts-a8c46870-69420945-7fb9b4b2-6cc44e0f-c4291069.mp3",
         "googletts-a8d20962-5f1b08ef-5b696073-7ed2ea20-176d10a6.mp3",
         "googletts-a8ecb3cd-61f54469-9e9be841-37af6eb4-029aff86.mp3",
+        "googletts-a98e77a8-e729dccd-498374eb-475eec3e-4a1e422c.mp3",
         "googletts-aa0eaa97-1bee7c21-23ff78e1-8d0608e5-74f44ce2.mp3",
         "googletts-aa2355f8-68138e7a-6acd2c88-14a7da7a-ed0e3ab4.mp3",
         "googletts-aa519fa9-9e21258e-834fe6b5-a345849e-aeff5862.mp3",
@@ -818,7 +819,6 @@
         "googletts-b16529c7-874b0f11-a0d2008c-4483f01d-17bfac3e.mp3",
         "googletts-b19401ab-1a87703e-cf1459ec-7ec03a0d-758807fb.mp3",
         "googletts-b1cb0f7e-ddb3529c-5722333f-357965a1-50767bc5.mp3",
-        "googletts-b1d470cf-0b437159-60c6108b-a0c08b63-18802c3d.mp3",
         "googletts-b1de170a-91bd09ae-599839f5-257829ea-51b89e26.mp3",
         "googletts-b1f0ccb2-2a6b845a-6ea49ca8-d02bf0c5-35443392.mp3",
         "googletts-b2140413-e8173c5e-b8cd9176-881ce9aa-04b2661f.mp3",
@@ -859,6 +859,7 @@
         "googletts-b98dacea-4b4132c7-099c1da9-ddfd5673-67d5d564.mp3",
         "googletts-ba25e9bd-9b9470d0-20bace23-faf5e254-7eb8a17b.mp3",
         "googletts-ba505a39-3111b370-e64f4135-7dc92eae-d87ee1b2.mp3",
+        "googletts-ba59622c-46582848-9acee27b-4362e229-88f10a55.mp3",
         "googletts-ba780bca-a401e8e0-4aaa78a6-5ee92e2d-0093a507.mp3",
         "googletts-ba938a02-8760de98-0a9ea0db-85bfe125-d014136c.mp3",
         "googletts-bb0de7fa-6db1fad5-23b1748f-797722c0-67961175.mp3",
@@ -932,7 +933,6 @@
         "googletts-ca114ca5-86e7938a-7852a473-a8366ec9-838d139c.mp3",
         "googletts-ca19c8e6-41900c5c-1bc9f83e-4c4d5801-6ff66fde.mp3",
         "googletts-ca68c0d7-ed3f1ce5-1111b6e4-c6a61032-8f23b522.mp3",
-        "googletts-cacaef1b-921a1f04-95907a60-1915fae6-1f0501d1.mp3",
         "googletts-cadc83db-85d3a4d1-c1cc76b8-dc81c747-235ff95f.mp3",
         "googletts-cae56198-078d1393-61567e51-eb850fd2-1e1492b8.mp3",
         "googletts-caff82f2-8c0cb35a-ce859613-c437edd1-c1e4d64e.mp3",
@@ -2006,7 +2006,7 @@
                 "fish",
                 "",
                 "The na-adjective",
-                "[sound:googletts-b1d470cf-0b437159-60c6108b-a0c08b63-18802c3d.mp3]"
+                "[sound:googletts-ba59622c-46582848-9acee27b-4362e229-88f10a55.mp3]"
             ],
             "guid": "ik,E@U=Z[7",
             "note_model_uuid": "7438e0a2-a6d2-11eb-a150-9cb6d013a4a3",
@@ -2291,7 +2291,7 @@
                 "important",
                 "",
                 "Adjective Practice Exercises",
-                "[sound:googletts-7aa62e4e-94f813da-1d88b274-1fa86e0d-4494319e.mp3]"
+                "[sound:googletts-869c253c-2718e19d-a1c3f532-c6e532fd-766a526b.mp3]"
             ],
             "guid": "Qe~doZGS>v",
             "note_model_uuid": "7438e0a2-a6d2-11eb-a150-9cb6d013a4a3",
@@ -2981,7 +2981,7 @@
                 "to twist",
                 "u-verb",
                 "Appendix: iru/eru u-verbs",
-                "[sound:googletts-cacaef1b-921a1f04-95907a60-1915fae6-1f0501d1.mp3]"
+                "[sound:googletts-a98e77a8-e729dccd-498374eb-475eec3e-4a1e422c.mp3]"
             ],
             "guid": "drw.6m$n}I",
             "note_model_uuid": "7438e0a2-a6d2-11eb-a150-9cb6d013a4a3",
