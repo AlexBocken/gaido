@@ -591,7 +591,6 @@
         "googletts-772d9db7-ab99d626-812312e3-73735800-39b994f7.mp3",
         "googletts-779ce92c-4e21bc3a-69b95536-11038c31-7b7d966c.mp3",
         "googletts-77c17eb2-d0ab2cd8-5f213e5d-0bdb6faa-c9504346.mp3",
-        "googletts-781e704c-109f4ef3-dc78d1ba-c94d42ee-86215374.mp3",
         "googletts-7846b9bf-1b1d49bd-0eb7bc6f-8df65c2b-50f71305.mp3",
         "googletts-793126a3-5e550369-0c9c8f24-9af9f8e0-da753a83.mp3",
         "googletts-7958f6d7-621efe2d-a2aaec07-496781c2-c58dab9b.mp3",
@@ -1044,6 +1043,7 @@
         "googletts-e76f160d-df2a3421-3121f99e-2c138f1e-1749234b.mp3",
         "googletts-e78f4f55-b13cb290-aae2d0ae-803e9144-505ee050.mp3",
         "googletts-e80557b6-03fb4f6b-30954d04-605629cc-a7facd6c.mp3",
+        "googletts-e80c6087-3681468e-3804439b-4684bdc4-617a017e.mp3",
         "googletts-e8406303-b2765581-41100ce3-0458c0c9-a2b30bec.mp3",
         "googletts-e8be4ba8-70471153-1f0011e1-acb5e2f3-7bf17f90.mp3",
         "googletts-e95a07e3-13847990-2ffe62c3-79717627-cf6810c2.mp3",
@@ -3396,8 +3396,8 @@
             "__type__": "Note",
             "fields": [
                 "143",
+                "椅子",
                 "いす",
-                "",
                 "chair",
                 "",
                 "The target 「に」 particle",
@@ -3701,7 +3701,7 @@
                 "entering",
                 "",
                 "Using state-of-being clauses as adjectives",
-                "[sound:googletts-781e704c-109f4ef3-dc78d1ba-c94d42ee-86215374.mp3]"
+                "[sound:googletts-e80c6087-3681468e-3804439b-4684bdc4-617a017e.mp3]"
             ],
             "guid": "p1W}Dw4r@2",
             "note_model_uuid": "7438e0a2-a6d2-11eb-a150-9cb6d013a4a3",
