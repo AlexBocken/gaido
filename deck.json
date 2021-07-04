@@ -55,7 +55,7 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 30,
+    "extendNew": 6,
     "extendRev": 0,
     "media_files": [
         "_ipag.ttf",
@@ -2721,8 +2721,8 @@
             "__type__": "Note",
             "fields": [
                 "98",
+                "喋る",
                 "しゃべる",
-                "",
                 "to talk",
                 "u-verb",
                 "Appendix: iru/eru u-verbs",
