@@ -20,7 +20,7 @@
                 "mult": 0.0
             },
             "maxTaken": 60,
-            "name": "Default",
+            "name": "Readings",
             "new": {
                 "bury": false,
                 "delays": [
@@ -34,7 +34,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 6
+                "perDay": 10
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -81,7 +81,6 @@
         "googletts-04ddfae0-0a4abf26-857eb1f2-ac5d6bfa-931bfcc8.mp3",
         "googletts-05799335-b112b0d8-ff8a5e0a-35a90893-2cf28e0f.mp3",
         "googletts-062b085a-6021fbb6-bb161250-86441e79-b15fca7f.mp3",
-        "googletts-064441c4-8c23c0ca-bd0831ed-f60c1177-95db2eba.mp3",
         "googletts-0682b417-6e21fa9f-01e2915f-d0c15d32-7dfa0709.mp3",
         "googletts-06899bbe-ff0f746f-6a724cc5-32047e64-c51a956d.mp3",
         "googletts-06a47063-d72919c6-b8cc51cc-2492a17f-67f0cfdb.mp3",
@@ -166,7 +165,6 @@
         "googletts-19dc9515-a25fae04-c607c7ff-ff28924c-77a42aae.mp3",
         "googletts-1a68bed9-97b2d490-690024ed-b50b42dd-7bcc18a3.mp3",
         "googletts-1aa767fe-c9f00853-d03be383-830fbe19-f33d7cd0.mp3",
-        "googletts-1ae044b8-d045c5f1-3f681571-974e495c-728b2a71.mp3",
         "googletts-1af1b429-38156a7a-109c3716-b6853d6a-cc6b6f87.mp3",
         "googletts-1b0151ef-29a77534-f51354bd-a815126c-179b9eaf.mp3",
         "googletts-1b4339f2-85cd6772-75414985-4e312b08-fb23a24c.mp3",
@@ -318,7 +316,6 @@
         "googletts-3ce27f9c-ac061ec5-c6feb7a4-3a4e89cf-1159aa73.mp3",
         "googletts-3d268e79-56c0e55e-52588924-a76357cf-ad70e2dc.mp3",
         "googletts-3d934483-3f39990b-10ce14c6-0c708ee4-380eb76d.mp3",
-        "googletts-3daebe79-7ad80280-5984647a-aad3b276-d27f5b0d.mp3",
         "googletts-3e9b36a3-dcbe5f09-33524e45-d5dd3700-c5614826.mp3",
         "googletts-3ebbf981-7d02a291-d4bfa9a8-0db22299-2aa2e02d.mp3",
         "googletts-3f1e2ee8-36a7e250-512e09d5-ea214d8c-94a87efa.mp3",
@@ -404,7 +401,6 @@
         "googletts-4d08fec4-73389305-eca387e8-1384f8ba-cd6fe73d.mp3",
         "googletts-4d66c8a3-027168b7-700c0a8a-47865bbe-36557dfc.mp3",
         "googletts-4d9f9ade-285f6622-65a54310-0130a5cf-f97c5ed5.mp3",
-        "googletts-4e5dca41-941b7f16-0b9b6017-8656211b-92eacb3d.mp3",
         "googletts-4e6fdb99-0104c759-bf8b03c7-a335b3a1-23d62e57.mp3",
         "googletts-4eb4adfe-00855cda-fce14641-0296cadc-626910fd.mp3",
         "googletts-4edaf719-c0f629ec-4404513c-ea663ae2-1f179ff8.mp3",
@@ -545,6 +541,7 @@
         "googletts-6b50f5b7-52eeb42a-815888a6-88487b09-31b42a1b.mp3",
         "googletts-6bb54806-bdc5d656-e1a91311-7b713564-abcddba4.mp3",
         "googletts-6bc85b5e-93701974-05b23553-bd04a6cd-f3e5c128.mp3",
+        "googletts-6c64516b-1ee43354-e26da259-a8cfe354-832a58b4.mp3",
         "googletts-6c751a91-5a059733-964d4b88-b246af33-6a555418.mp3",
         "googletts-6c75ad0e-17ef758c-8d1a52c9-2f78802d-e77c4731.mp3",
         "googletts-6c79146d-9d933d12-c77ed57a-2c540c30-7179d747.mp3",
@@ -562,6 +559,7 @@
         "googletts-6fe16c88-4ac004c1-9a04086e-0c19ba9d-f0dc50f5.mp3",
         "googletts-6fe408cc-1d5bc193-424e930a-9be99cec-bc44b7d0.mp3",
         "googletts-6ffcafe3-03d62e82-37c9e48e-b9e9d993-2e3ec022.mp3",
+        "googletts-70299811-3152dac4-739095f3-88195e05-b29371d6.mp3",
         "googletts-704e583a-c3482b60-6c90252f-6aa90c4d-91dbaacd.mp3",
         "googletts-70528b60-4b9cba45-d0125309-e6833820-b7ad9626.mp3",
         "googletts-711386e6-58b70e51-0c31f412-9a1a0639-5acbe12f.mp3",
@@ -687,6 +685,7 @@
         "googletts-8d81e0d9-1b45ac56-e72fba02-2c5e7ff3-065e5651.mp3",
         "googletts-8db14fc9-4d36a540-72095977-56583b61-7406dab4.mp3",
         "googletts-8dd3d889-79eec5d2-0e4bbb70-e8d13211-52b10210.mp3",
+        "googletts-8dfe03fe-547fdbf1-8389093c-4375938b-b03c5bab.mp3",
         "googletts-8e0f7e84-88ad5dda-881f8b54-6e78eb3b-5d3f9afe.mp3",
         "googletts-8f7165a6-946b4d41-dacdbf9c-006d38b8-66663d5f.mp3",
         "googletts-8fa477da-1f92800e-f820770d-0d2f3a76-6a0453b8.mp3",
@@ -699,7 +698,6 @@
         "googletts-922b7f89-400cdb3a-97d72f01-2a1e00e3-5e4a2ade.mp3",
         "googletts-92896211-0452484e-7f6f0474-4c7b7d6a-423844d5.mp3",
         "googletts-92dd94e5-e09d0dce-9de87636-05e393fc-79ad5792.mp3",
-        "googletts-9318ba00-baf367b9-f61e15dc-f3be3920-46f131c0.mp3",
         "googletts-932858c0-7767502f-679ae2f6-057e5bba-c20c3681.mp3",
         "googletts-933cf932-7f3e2a03-a2277c2d-9871fa99-e245727e.mp3",
         "googletts-938c8f79-efa0758d-d4df67bf-8796aec3-c5a5f196.mp3",
@@ -947,6 +945,7 @@
         "googletts-cd2ac5be-720d071d-f337f24f-7a0aa834-1a0f7a6c.mp3",
         "googletts-cd384ca7-28c7c546-66de0f20-a75f46a1-0dbf9045.mp3",
         "googletts-cd91f99e-3bb7dc3a-49e7c041-1f25c7dd-4aa6b1cd.mp3",
+        "googletts-cdb3acb4-7f2d0070-32712478-150e60e7-0897f35e.mp3",
         "googletts-ce97b97a-31b8f636-65a889cd-177200e2-0b511acd.mp3",
         "googletts-cf0e5489-e4ecf6e4-7d8cfbc6-2594754a-1faabeb9.mp3",
         "googletts-cf227747-3b02d29f-b8263bd2-57abfd7f-1ed32d22.mp3",
@@ -1012,7 +1011,6 @@
         "googletts-de9e38fa-11b0a8c6-cb12e9bc-e85d3c9a-d5b6bbae.mp3",
         "googletts-deb8bab0-fcdf13df-59ac0e0c-3329c4a3-24c10f37.mp3",
         "googletts-df0340a0-5d54dcc3-5afc3a96-339f0a4d-1478f450.mp3",
-        "googletts-df3a9401-5d89835f-4710a12e-9f1863ca-c789f0c2.mp3",
         "googletts-df8174ab-ceab3413-c8426d5a-4f4b32d0-24a7fbc7.mp3",
         "googletts-e02b5f0d-56e9c067-ac45d069-eafb6d3d-f6b670b1.mp3",
         "googletts-e055a76e-c6c3b7ad-f05a526b-85206948-caa3c761.mp3",
@@ -1049,6 +1047,7 @@
         "googletts-e95a07e3-13847990-2ffe62c3-79717627-cf6810c2.mp3",
         "googletts-e972a65d-41ad91cb-806b027e-a546a1f2-1043011a.mp3",
         "googletts-e9734615-da633f99-b9b9b031-7a0bad49-2f1538c9.mp3",
+        "googletts-e97ab0a2-e1cb0a40-671823b0-e0246d13-a8ceb9ff.mp3",
         "googletts-e984bb13-a51bcec2-8eddeda9-a987d84e-4737d9b9.mp3",
         "googletts-e9abeb4b-c0b38255-cf768632-36534b43-4fb1352f.mp3",
         "googletts-e9b60985-585a86a8-3f5b7f51-d8599110-1922d02e.mp3",
@@ -1126,6 +1125,7 @@
         "googletts-fc7bf72e-f0af70cb-f5be694a-8ddc4036-611d1f92.mp3",
         "googletts-fca609f6-c8770eb5-afdc64ee-9e53f6a6-5e710fad.mp3",
         "googletts-fcf5b17f-c53ec259-7ac6a806-177f4bf2-d698f202.mp3",
+        "googletts-fd374253-e280d6be-80299c65-7c39143e-f0b7d11b-dc18874da45e32d451bf0dcbb53ea6e813d73d25.mp3",
         "googletts-fd9d14a1-0a503979-9677dc74-3a3cfc3e-e28519ff.mp3",
         "googletts-fdc0e6bf-1ffed97b-222acea9-3c349596-6175750a.mp3",
         "googletts-febfb54a-927a82b9-1301fe4b-9862c8cf-0c542159.mp3",
@@ -1144,7 +1144,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "7438e0a2-a6d2-11eb-a150-9cb6d013a4a3",
-            "css": "@font-face {\n   font-family: 'IPAGothic';\n   font-style: normal;\n   font-weight: 400;\n   src: url(_ipag.ttf) format('truetype');\n }\n:root{\n\t--highlight: #5E81AC;\n\t--least-important:#4C566A;\n\t--highlight2: #BF616A;\n\t--slight_highlight: #434C5E;\n\t--default: #2E3440;\n\t--hint: #5E81AC;\n\t--dark_hint:#B48EAD;\n\t--dark_default:#E5E9F0;\n\t--dark_highlight:#5E81AC;\n\t--dark_slight_highlight: #88C0D0;\n}\nbody {\nmargin: 0;\n}\n.chapter{\n\ttext-style:normal;\n\ttop:0;\n\ttext-decoration:none;\n\tpadding-left:10px;\n\tcolor:var(--least-important);\n\tfont-family: Helvetica,Arial,Verdana,sans-serif;\n\tfont-size: 20px;\n\ttext-align:right;\n\tfloat:right;\n\tpadding-top:10px;\n}\n.nightMode .chapter{\n\tcolor: var(--least-important);\n}\n.MeaningBack2{\n\tfont-family: Helvetica, IPAGothic;\n\tcolor: var(--slight_highlight);\n\tfont-size: 40px;\n\tpadding-top: 7vh;\n\tpadding-left: 10px;\n\tfont-style: normal;\n}\n.nightMode .MeaningBack2{\n\tcolor:var(--dark_slight_highlight);\n}\n.container {\ndisplay: flex;\nflex-direction: column;\nheight: 100vh;\njustify-content: center;\nalign-items: stretch;\n}\n.card-content {\nflex: 1;\npadding: 20px;\npadding-top:0;\n}\n.footer {\n\tpadding: 20px;\n\tpadding-bottom: 5px;\n\tpadding-top:0px;\n}\n.card {\n\tmargin-top: 0px;\n\theight: 100%;\n\tfont-family:  Helvetica, \"IPAGothic\", Arial,Verdana,sans-serif;\n}\n.parent {\n  white-space: nowrap;\n  padding-top: 30vh;\n}\n.parentBack {\n  white-space: nowrap;\n  padding-top: 10vh;\n}\n#JapaneseFront{\n\tmargin-top:30vh;\n\tfont-size: 120px;\n   \tfont-family: IPAGothic;\n\tcolor: var(--highlight);\n\theight:120px;\n}\n.nightMode #JapaneseFront{\n\tcolor: var(--dark_highlight);\n}\n#JapaneseBack{\n\tfont-size: 120px;\n   \tfont-family: IPAGothic;\n\tcolor: var(--highlight);\n\theight:120px;\n}\n.nightMode #JapaneseBack{\n\tcolor: var(--dark_highlight);\n}\n#no {\n\tcolor:var(--least-important);\n\tfont-family: Helvetica,Arial,Verdana,sans-serif;\n\tfont-size: 20px;\n\ttext-align:right;\n\tfloat:right;\n}\n.nightMode #no {\n\tcolor:var(--least-important);\n}\n.MeaningBack{\n\tmargin-top:15vh;\n\ttext-align:center;\n\tfont-size: 40px;\n   \tfont-family: Helvetica;\n\tcolor: var(--highlight);\n}\n.nightMode .MeaningBack{\n\tcolor: var(--dark_highlight);\n}\n.MeaningFrontContainer{\n\tdisplay: flex;\n\tflex-direction: column;\n\theight: 80vh;\n\twidth:90vw;\n\tjustify-content:center;\n}\n.MeaningFront{\n \tfont-family: Helvetica;\n\tfont-size: 50px;\n\tcolor: var(--highlight);\n\ttext-align:left;\n\thyphens: auto;\n\tjustify-content: center;\n}\n.nightMode .MeaningFront{\n\tcolor: var(--dark_highlight);\n}\n.JapaneseBack{\n\tfont-family: Helvetica, IPAGothic;\n\tcolor: var(--slight_highlight);\n\tfont-size: 40px;\n\tpadding-top: 10vh;\n\tfont-style: normal;\n\tmargin-bottom:auto;\n}\n.nightMode .JapaneseBack{\n\tcolor: var(--dark_slight_highlight);\n}\n.ReadingBack{\n\tfont-family: Helvetica, IPAGothic;\n\tcolor: var(--least-important);\n\tfont-size: 40px;\n\tfont-style: normal;\n\tmargin-bottom:auto;\n}\n.nightMode .ReadingBack{\n\tcolor: var(--least-important);\n}\n.PartOfSpeechBack{\n\tfont-family: Helvetica, IPAGothic;\n\tcolor: var(--least-important);\n\tfont-size: 30px;\n\tfont-style: normal;\n\tmargin-bottom:auto;\n}\n.nightMode .PartOfSpeechBack{\n\tcolor: var(--least-important);\n}\n.card .TonBack{\n\tdisplay:none;\n\talign:center;\n\ttext-align:center;\n\tpadding-top:25px;\n\tpadding-bottom: 5px;\n}\n\n/* ANDROID SETTINGS */\n.android .container {\n\theight: 95vh; /*AnkiDroid seems to calculate vh with area below buttons*/\n}\n.android .card .nightMode {\n\tbackground-color:#000000;\n}\n.android .TonBack{\n\tdisplay: float;\n}",
+            "css": "@font-face {\n   font-family: 'IPAGothic';\n   font-style: normal;\n   font-weight: 400;\n   src: url(_ipag.ttf) format('truetype');\n }\n:root{\n\t--highlight: #5E81AC;\n\t--least-important:#4C566A;\n\t--highlight2: #BF616A;\n\t--slight_highlight: #434C5E;\n\t--default: #2E3440;\n\t--hint: #5E81AC;\n\t--dark_hint:#B48EAD;\n\t--dark_default:#E5E9F0;\n\t--dark_highlight:#5E81AC;\n\t--dark_slight_highlight: #88C0D0;\n}\nbody {\nmargin: 0;\n}\n.chapter{\n\ttext-style:normal;\n\ttop:0;\n\ttext-decoration:none;\n\tpadding-right:10px;\n\tcolor:var(--least-important);\n\tfont-family: Helvetica,Arial,Verdana,sans-serif;\n\tfont-size: 20px;\n\ttext-align:right;\n\tfloat:right;\n\tpadding-top:10px;\n}\n.nightMode .chapter{\n\tcolor: var(--least-important);\n}\n.MeaningBack2{\n\tfont-family: Helvetica, IPAGothic;\n\tcolor: var(--slight_highlight);\n\tfont-size: 40px;\n\tmargin-top: 7vh;\n\tpadding-left: 10px;\n\tfont-style: normal;\n}\n.nightMode .MeaningBack2{\n\tcolor:var(--dark_slight_highlight);\n}\n.container {\ndisplay: flex;\nflex-direction: column;\nheight: 97vh;\njustify-content: center;\nalign-items: stretch;\n}\n.card-content {\nflex: 1;\npadding: 20px;\npadding-top:0;\npadding-bottom:0;\n}\n.footer {\n\tmargin: 10px;\n\tmargin-bottom: 0px;\n\tmargin-top:0px;\n}\n.card {\n\tmargin-top: 0px;\n\theight: 100%;\n\tfont-family:  Helvetica, \"IPAGothic\", Arial,Verdana,sans-serif;\n}\n.parent {\n  white-space: nowrap;\n  padding-top: 30vh;\n}\n.parentBack {\n  white-space: nowrap;\n  padding-top: 10vh;\n}\n#JapaneseFront{\n\tmargin-top:30vh;\n\tfont-size: 120px;\n   \tfont-family: IPAGothic;\n\tcolor: var(--highlight);\n\theight:120px;\n}\n.nightMode #JapaneseFront{\n\tcolor: var(--dark_highlight);\n}\n#JapaneseBack{\n\tfont-size: 120px;\n   \tfont-family: IPAGothic;\n\tcolor: var(--highlight);\n}\n.nightMode #JapaneseBack{\n\tcolor: var(--dark_highlight);\n}\n#no {\n\tcolor:var(--least-important);\n\tfont-family: Helvetica,Arial,Verdana,sans-serif;\n\tfont-size: 20px;\n\ttext-align:right;\n\tfloat:right;\n}\n.nightMode #no {\n\tcolor:var(--least-important);\n}\n.MeaningBack{\n\tmargin-top:15vh;\n\ttext-align:center;\n\tfont-size: 40px;\n   \tfont-family: Helvetica;\n\tcolor: var(--highlight);\n}\n.nightMode .MeaningBack{\n\tcolor: var(--dark_highlight);\n}\n.MeaningFrontContainer{\n\tdisplay: flex;\n\tflex-direction: column;\n\theight: 80vh;\n\twidth:90vw;\n\tjustify-content:center;\n}\n.MeaningFront{\n \tfont-family: Helvetica;\n\tfont-size: 50px;\n\tcolor: var(--highlight);\n\ttext-align:left;\n\thyphens: auto;\n\tjustify-content: center;\n}\n.nightMode .MeaningFront{\n\tcolor: var(--dark_highlight);\n}\n.JapaneseBack{\n\tfont-family: Helvetica, IPAGothic;\n\tcolor: var(--slight_highlight);\n\tfont-size: 40px;\n\tpadding-top: 10vh;\n\tfont-style: normal;\n\tmargin-bottom:auto;\n}\n.nightMode .JapaneseBack{\n\tcolor: var(--dark_slight_highlight);\n}\n.ReadingBack{\n\tfont-family: Helvetica, IPAGothic;\n\tcolor: var(--least-important);\n\tfont-size: 40px;\n\tfont-style: normal;\n\tmargin-bottom:auto;\n}\n.nightMode .ReadingBack{\n\tcolor: var(--least-important);\n}\n.PartOfSpeechBack{\n\tfont-family: Helvetica, IPAGothic;\n\tcolor: var(--least-important);\n\tfont-size: 30px;\n\tfont-style: normal;\n\tmargin-bottom:auto;\n}\n.nightMode .PartOfSpeechBack{\n\tcolor: var(--least-important);\n}\n.card .TonBack{\n\tdisplay:none;\n\talign:center;\n\ttext-align:center;\n\tpadding-top:25px;\n\tpadding-bottom: 5px;\n}\n\n/* ANDROID SETTINGS */\n.android .container {\n\theight: 95vh; /*AnkiDroid seems to calculate vh with area below buttons*/\n}\n.android .card .nightMode {\n\tbackground-color:#000000;\n}\n.android .TonBack{\n\tdisplay: float;\n}",
             "flds": [
                 {
                     "font": "Liberation Sans",
@@ -1235,7 +1235,7 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "<div class=\"container\">\n\t<div class=\"card-content\">\n\t\t<div class=chapter>{{chapter}}</div>\n\t\t<div class=JapaneseBack>{{Japanese}}</div>\n\t\t<div class=ReadingBack>{{Reading}}</div>\n\t\t<div class=PartOfSpeechBack>{{part_of_speech}}</div>\n\n\t\t<div class=TonBack>{{sound}}</div>\n\t\t<div class=MeaningBack> {{Meaning}} </div>\n\t</div>\n\t<div class=\"footer\">\n\t\t<div id=\"no\">\n\t\t\t{{Index}}\n\t\t</div><!-- index-->\n\t</div><!-- footer -->\n</div><!-- container -->\n",
+                    "afmt": "<div class=\"container\">\n\t<span class=chapter>{{chapter}}</span>\n\t<div class=\"card-content\">\n\t\t<div class=JapaneseBack>{{Japanese}}</div>\n\t\t<span class=ReadingBack>{{Reading}}</span>\n\t\t<div class=PartOfSpeechBack>{{part_of_speech}}</div>\n\n\t\t<div class=TonBack>{{sound}}</div>\n\t\t<div class=MeaningBack> {{Meaning}} </div>\n\t</div>\n\t<div class=\"footer\">\n\t\t<div id=\"no\">\n\t\t\t{{Index}}\n\t\t</div><!-- index-->\n\t</div><!-- footer -->\n</div><!-- container -->\n",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -1243,10 +1243,10 @@
                     "did": null,
                     "name": "Recognition",
                     "ord": 0,
-                    "qfmt": "<script src=\"_jquery.min.js\" type=\"text/javascript\"></script>\n\n<div class=\"container\">\n<div class=\"card-content\">\n\t<div class=chapter>{{chapter}}</div>\n\t<div class=\"parent\" style=\"white-space:nowrap;\">\n\t\t<span href=\"#\" class=resize id=JapaneseFront>\n\t\t\t{{Japanese}}\n\t\t</span>\n\t</div>\n</div>\n\n<div class=\"footer\">\n\t<div id=\"no\">\n\t\t{{Index}}\n\t</div><!-- index-->\n</div><!-- footer -->\n\n</div><!-- container -->\n\n<script>\nresize();\n\nvar rtime;\nvar timeout = false;\nvar delta = 100;\n$(window).resize(function() {\n    rtime = new Date();\n    if (timeout === false) {\n        timeout = true;\n        setTimeout(resizeend, delta);\n    }\n});\nfunction resizeend() {\n    if (new Date() - rtime < delta) {\n        setTimeout(resizeend, delta);\n    } else {\n        timeout = false;      \n        resize();\n    }               \n}\nfunction resize() {  \n\t$('.resize').each(function(i, obj) {\n\t\t$(this).css('font-size', '8em');\n\n\t\twhile ($(this).width() > $(this).parent().width()) {\n\t\t\t$(this).css('font-size', (parseInt($(this).css('font-size')) - 1) + \"px\");\n\t\t}\n\t});\n}\n</script>"
+                    "qfmt": "<script src=\"_jquery.min.js\" type=\"text/javascript\"></script>\n\n<div class=\"container\">\n<span class=chapter>{{chapter}}</span>\n<div class=\"card-content\">\n\t<div class=\"parent\" style=\"white-space:nowrap;\">\n\t\t<span href=\"#\" class=resize id=JapaneseFront>\n\t\t\t{{Japanese}}\n\t\t</span>\n\t</div>\n</div>\n\n<div class=\"footer\">\n\t<div id=\"no\">\n\t\t{{Index}}\n\t</div><!-- index-->\n</div><!-- footer -->\n\n</div><!-- container -->\n\n<script>\nresize();\n\nvar rtime;\nvar timeout = false;\nvar delta = 100;\n$(window).resize(function() {\n    rtime = new Date();\n    if (timeout === false) {\n        timeout = true;\n        setTimeout(resizeend, delta);\n    }\n});\nfunction resizeend() {\n    if (new Date() - rtime < delta) {\n        setTimeout(resizeend, delta);\n    } else {\n        timeout = false;      \n        resize();\n    }               \n}\nfunction resize() {  \n\t$('.resize').each(function(i, obj) {\n\t\t$(this).css('font-size', '8em');\n\n\t\twhile ($(this).width() > $(this).parent().width()) {\n\t\t\t$(this).css('font-size', (parseInt($(this).css('font-size')) - 1) + \"px\");\n\t\t}\n\t});\n}\n</script>"
                 },
                 {
-                    "afmt": "<script src=\"_jquery.min.js\" type=\"text/javascript\"></script>\n<div class=\"container\">\n\t<div class=\"card-content\">\n\t\t<div class=chapter>{{chapter}}</div>\n\t\t<div class=MeaningBack2>{{Meaning}}</div>\n\n\t\t<div class=TonBack>{{sound}}</div>\n\t\t<div class=\"parentBack\" style=\"white-space:nowrap;\">\n\t\t<span href=\"#\" class=resize id=JapaneseBack>\n\t\t\t{{Japanese}}\n\t\t</span>\n\t\t<div class=ReadingBack> {{Reading}} </div>\n\t\t<div class=PartOfSpeechBack> {{part_of_speech}} </div>\n</div>\n\n\t</div>\n\n\t<div class=\"footer\">\n\t\t<div id=\"no\">\n\t\t\t{{Index}}\n\t\t</div><!-- index-->\n\t</div><!-- footer -->\n</div><!-- container -->\n\n\n<script>\nresize();\n\nvar rtime;\nvar timeout = false;\nvar delta = 100;\n$(window).resize(function() {\n    rtime = new Date();\n    if (timeout === false) {\n        timeout = true;\n        setTimeout(resizeend, delta);\n    }\n});\nfunction resizeend() {\n    if (new Date() - rtime < delta) {\n        setTimeout(resizeend, delta);\n    } else {\n        timeout = false;      \n        resize();\n    }               \n}\nfunction resize() {  \n\t$('.resize').each(function(i, obj) {\n\t\t$(this).css('font-size', '8em');\n\n\t\twhile ($(this).width() > $(this).parent().width()) {\n\t\t\t$(this).css('font-size', (parseInt($(this).css('font-size')) - 1) + \"px\");\n\t\t}\n\t});\n}\n</script>",
+                    "afmt": "<script src=\"_jquery.min.js\" type=\"text/javascript\"></script>\n<div class=\"container\">\n\t<span class=chapter>{{chapter}}</span>\n\t<div class=\"card-content\">\n\t\t<div class=MeaningBack2>{{Meaning}}</div>\n\t\t<div class=TonBack>{{sound}}</div>\n\t\t<div class=\"parentBack\" style=\"white-space:nowrap;\">\n\t\t<span href=\"#\" class=resize id=JapaneseBack>\n\t\t\t{{Japanese}}\n\t\t</span>\n\t\t</div>\n\t\t<div class=ReadingBack> {{Reading}} </div>\n\t\t<div class=PartOfSpeechBack> {{part_of_speech}} </div>\n</div>\n\n\t<div class=\"footer\">\n\t\t<div id=\"no\">\n\t\t\t{{Index}}\n\t\t</div><!-- index-->\n\t</div><!-- footer -->\n</div><!-- container -->\n\n\n<script>\nresize();\n\nvar rtime;\nvar timeout = false;\nvar delta = 100;\n$(window).resize(function() {\n    rtime = new Date();\n    if (timeout === false) {\n        timeout = true;\n        setTimeout(resizeend, delta);\n    }\n});\nfunction resizeend() {\n    if (new Date() - rtime < delta) {\n        setTimeout(resizeend, delta);\n    } else {\n        timeout = false;      \n        resize();\n    }               \n}\nfunction resize() {  \n\t$('.resize').each(function(i, obj) {\n\t\t$(this).css('font-size', '8em');\n\n\t\twhile ($(this).width() > $(this).parent().width()) {\n\t\t\t$(this).css('font-size', (parseInt($(this).css('font-size')) - 1) + \"px\");\n\t\t}\n\t});\n}\n</script>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -1254,7 +1254,7 @@
                     "did": null,
                     "name": "Recall",
                     "ord": 1,
-                    "qfmt": "<script src=\"_jquery.min.js\" type=\"text/javascript\"></script>\n<div class=\"container\">\n\t<div class=\"card-content\">\n\t<div class=chapter>{{chapter}}</div>\n\t<div class=MeaningFrontContainer>\n\t<div class=MeaningFront lang=\"de\"> {{Meaning}}</div>\n\t</div>\n\t</div>\n\t<div class=\"footer\">\n\t\t<div id=\"no\">\n\t\t\t{{Index}}\n\t\t</div><!-- index-->\n\t</div><!-- footer -->\n</div><!-- container -->\n\n"
+                    "qfmt": "<script src=\"_jquery.min.js\" type=\"text/javascript\"></script>\n<div class=\"container\">\n\t<span class=chapter>{{chapter}}</span>\n\t<div class=\"card-content\">\n\t<div class=MeaningFrontContainer>\n\t<div class=MeaningFront lang=\"de\"> {{Meaning}}</div>\n\t</div>\n\t</div>\n\t<div class=\"footer\">\n\t\t<div id=\"no\">\n\t\t\t{{Index}}\n\t\t</div><!-- index-->\n\t</div><!-- footer -->\n</div><!-- container -->\n\n"
                 }
             ],
             "type": 0,
@@ -6566,7 +6566,7 @@
                 "to possibly exist",
                 "ru-verb",
                 "「ある」, yet another exception",
-                "[sound:googletts-1ae044b8-d045c5f1-3f681571-974e495c-728b2a71.mp3]"
+                "[sound:googletts-6c64516b-1ee43354-e26da259-a8cfe354-832a58b4.mp3]"
             ],
             "guid": "mlrs3/j7td",
             "note_model_uuid": "7438e0a2-a6d2-11eb-a150-9cb6d013a4a3",
@@ -6596,7 +6596,7 @@
                 "skillful",
                 "na-adj",
                 "Using 「なる」 and 「する」 for nouns and na-adjectives",
-                "[sound:googletts-4e5dca41-941b7f16-0b9b6017-8656211b-92eacb3d.mp3]"
+                "[sound:googletts-8dfe03fe-547fdbf1-8389093c-4375938b-b03c5bab.mp3]"
             ],
             "guid": "j]cmEcZu`c",
             "note_model_uuid": "7438e0a2-a6d2-11eb-a150-9cb6d013a4a3",
@@ -6641,7 +6641,7 @@
                 "other",
                 "",
                 "Using 「なる」 and 「する」 for nouns and na-adjectives",
-                "[sound:googletts-9318ba00-baf367b9-f61e15dc-f3be3920-46f131c0.mp3]"
+                "[sound:googletts-70299811-3152dac4-739095f3-88195e05-b29371d6.mp3]"
             ],
             "guid": "y]f=cQy,7]",
             "note_model_uuid": "7438e0a2-a6d2-11eb-a150-9cb6d013a4a3",
@@ -6806,7 +6806,7 @@
                 "to play (piano, guitar)",
                 "u-verb",
                 "Using 「なる」 and 「する」 with verbs",
-                "[sound:googletts-064441c4-8c23c0ca-bd0831ed-f60c1177-95db2eba.mp3]"
+                "[sound:googletts-fd374253-e280d6be-80299c65-7c39143e-f0b7d11b-dc18874da45e32d451bf0dcbb53ea6e813d73d25.mp3]"
             ],
             "guid": "L,{NkzvOAm",
             "note_model_uuid": "7438e0a2-a6d2-11eb-a150-9cb6d013a4a3",
@@ -8606,7 +8606,7 @@
                 "name suffix",
                 "",
                 "Using 「じゃん」 instead of 「じゃない」 to confirm",
-                "[sound:googletts-df3a9401-5d89835f-4710a12e-9f1863ca-c789f0c2.mp3]"
+                "[sound:googletts-e97ab0a2-e1cb0a40-671823b0-e0246d13-a8ceb9ff.mp3]"
             ],
             "guid": "o.}x6l[:nP",
             "note_model_uuid": "7438e0a2-a6d2-11eb-a150-9cb6d013a4a3",
@@ -8906,7 +8906,7 @@
                 "space (between); time (between); period",
                 "",
                 "「な」 and 「さ」 sentence-ending particles",
-                "[sound:googletts-3daebe79-7ad80280-5984647a-aad3b276-d27f5b0d.mp3]"
+                "[sound:googletts-cdb3acb4-7f2d0070-32712478-150e60e7-0897f35e.mp3]"
             ],
             "guid": "jGozREkj-8",
             "note_model_uuid": "7438e0a2-a6d2-11eb-a150-9cb6d013a4a3",
